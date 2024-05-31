@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IoT projects<br>🌱 I’m currently learning Rust<br>💬 Ask me about Kubernetes, Docker, Angular, React and Java
+🔭 I’m currently working on IoT projects<br>💬 Ask me about Kubernetes, Docker, Angular, React and Java
 
 
 ## 🌐 Socials:
